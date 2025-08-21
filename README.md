@@ -79,10 +79,124 @@ HashMap<String,String> CapitalCities = new HashMap<String,String>();
 		
 		///printing keys anad values
 		
+		HashMap<String,String> CapitalCities = new HashMap<String,String>();
+		
+		//adding keys aand values
+		CapitalCities.put("India","Delhi");
+		CapitalCities.put("England", "London");
+		CapitalCities.put("USA", "Washington");
+		
+		System.out.println(CapitalCities);
+		
+		//access item
+		System.out.println(CapitalCities.get("England"));
+		
+		//remove item
+		
+		//--CapitalCities.remove("England");//
+		
+		//printing keys
+		
+		for(String x:CapitalCities.keySet())
+		{
+			System.out.println(x);
+		}
+		
+		
+		
+		//printing values
+		for(String y:CapitalCities.values())
+		{
+			System.out.println(y);
+		}
+		
+		
+		///printing keys anad values
+		
 		for(String i:CapitalCities.keySet())
 		{
 			System.out.println(i+  CapitalCities.values());
 		}
+		
+		HashMap<String,String> CapitalCities = new HashMap<String,String>();
+		
+		//adding keys aand values
+		CapitalCities.put("India","Delhi");
+		CapitalCities.put("England", "London");
+		CapitalCities.put("USA", "Washington");
+		
+		System.out.println(CapitalCities);
+		
+		//access item
+		System.out.println(CapitalCities.get("England"));
+		
+		//remove item
+		
+		//--CapitalCities.remove("England");//
+		
+		//printing keys
+		
+		for(String x:CapitalCities.keySet())
+		{
+			System.out.println(x);
+		}
+		
+		
+		
+		//printing values
+		for(String y:CapitalCities.values())
+		{
+			System.out.println(y);
+		}
+		
+		
+		///printing keys anad values
+		
+		for(String i:CapitalCities.keySet())
+		{
+			System.out.println(i+  CapitalCities.values());
+		}
+		
+		HashMap<String,String> CapitalCities = new HashMap<String,String>();
+		
+		//adding keys aand values
+		CapitalCities.put("India","Delhi");
+		CapitalCities.put("England", "London");
+		CapitalCities.put("USA", "Washington");
+		
+		System.out.println(CapitalCities);
+		
+		//access item
+		System.out.println(CapitalCities.get("England"));
+		
+		//remove item
+		
+		//--CapitalCities.remove("England");//
+		
+		//printing keys
+		
+		for(String x:CapitalCities.keySet())
+		{
+			System.out.println(x);
+		}
+		
+		
+		
+		//printing values
+		for(String y:CapitalCities.values())
+		{
+			System.out.println(y);
+		}
+		
+		
+		///printing keys anad values
+		
+		for(String i:CapitalCities.keySet())
+		{
+			System.out.println(i+  CapitalCities.get(i));
+		}
+		
+		
 		
 		
 
