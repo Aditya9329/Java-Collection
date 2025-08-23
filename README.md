@@ -200,7 +200,7 @@ HashMap<String,String> CapitalCities = new HashMap<String,String>();
 
 
   ## Core Java Interview Question
-  Part-1
+Part-1
 -- https://rahulshettyacademy.com/blog/index.php/java-interview-questions/ --
 Question 1: Write a Java Program to reverse a String.
 Question 2:  Write a Java Program to swap two given Strings
