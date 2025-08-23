@@ -202,34 +202,34 @@ HashMap<String,String> CapitalCities = new HashMap<String,String>();
   ## Core Java Interview Question
 Part-1
 -- https://rahulshettyacademy.com/blog/index.php/java-interview-questions/ --
-Question 1: Write a Java Program to reverse a String.
-Question 2:  Write a Java Program to swap two given Strings
-Question 3: Write a Java Program to print the Fibonacci Series.
-Question 4: Write a Java Program to check if a number is Armstrong number or not.
-Question 5: Write a Java Program to print the sum of digits of a given integer.
-Question 6: Write a Java Program to check if a number is Prime or not.
-Question 7:  Write a Java Program to count the number of characters in a given String.
-Question 8: Write a Java Program to find the duplicates of a given String.
-Question 9: Write a Java Program for swapping of 2 numbers.
-Question 10: Write a Java Program to reverse an array?
-Question 11: Write a Java Program to get the count of Capitalized words in a String.
-Question 12: Write a Java Program to find the longest consecutive occurrence of integers in a given array.
+1. Question 1: Write a Java Program to reverse a String.
+2. Question 2:  Write a Java Program to swap two given Strings
+3. Question 3: Write a Java Program to print the Fibonacci Series.
+4. Question 4: Write a Java Program to check if a number is Armstrong number or not.
+5. Question 5: Write a Java Program to print the sum of digits of a given integer.
+6. Question 6: Write a Java Program to check if a number is Prime or not.
+7. Question 7:  Write a Java Program to count the number of characters in a given String.
+8. Question 8: Write a Java Program to find the duplicates of a given String.
+9. Question 9: Write a Java Program for swapping of 2 numbers.
+10. Question 10: Write a Java Program to reverse an array?
+11. Question 11: Write a Java Program to get the count of Capitalized words in a String.
+12. Question 12: Write a Java Program to find the longest consecutive occurrence of integers in a given array.
 
 Part-2
 
--> Question 13: Write a Java Program to generate Output "aabbbcccc" with the input "a2b3c4"
--> Question 14: Write a Java Program to print the product of an array except self?
--> Question 15: Write a Java Program to reverse a number using Stack.
--> Question 16:  Write a Java Program to print the second largest number in a given array.
--> Question 17: Write a Java Program to print the first non repeating character in a given String.
--> Question 18: Write a Java Program to print the maximum consecutive ones in a given array.
--> Question 19: Write a Java Program to print the first and last position of a number in a given array.
--> Question 20: Write a Java Program to print numbers 1 to 100 without using any loop(for/while/do-while).
--> Question 21: Write a Java Program to shift all zeros on the right.
--> Question 22: Write a Java Program to remove the duplicates from an array.
--> Question 23: Write a Java Program to iterate through the HashMap.
--> Question 24: Write a Java Program to convert HashMap to ArrayList.
--> Question 25: Write a Java Program to print the missing number in a given Array.
+1. Question 13: Write a Java Program to generate Output "aabbbcccc" with the input "a2b3c4"
+2. Question 14: Write a Java Program to print the product of an array except self?
+3. Question 15: Write a Java Program to reverse a number using Stack.
+4. Question 16:  Write a Java Program to print the second largest number in a given array.
+5. Question 17: Write a Java Program to print the first non repeating character in a given String.
+6. Question 18: Write a Java Program to print the maximum consecutive ones in a given array.
+7. Question 19: Write a Java Program to print the first and last position of a number in a given array.
+8. Question 20: Write a Java Program to print numbers 1 to 100 without using any loop(for/while/do-while).
+9. Question 21: Write a Java Program to shift all zeros on the right.
+10. Question 22: Write a Java Program to remove the duplicates from an array.
+11. Question 23: Write a Java Program to iterate through the HashMap.
+12. Question 24: Write a Java Program to convert HashMap to ArrayList.
+13. Question 25: Write a Java Program to print the missing number in a given Array.
 
 Part-3
 
