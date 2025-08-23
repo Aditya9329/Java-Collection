@@ -217,39 +217,39 @@ Question 12: Write a Java Program to find the longest consecutive occurrence of 
 
 Part-2
 
-Question 13: Write a Java Program to generate Output "aabbbcccc" with the input "a2b3c4"
-Question 14: Write a Java Program to print the product of an array except self?
-Question 15: Write a Java Program to reverse a number using Stack.
-Question 16:  Write a Java Program to print the second largest number in a given array.
-Question 17: Write a Java Program to print the first non repeating character in a given String.
-Question 18: Write a Java Program to print the maximum consecutive ones in a given array.
-Question 19: Write a Java Program to print the first and last position of a number in a given array.
-Question 20: Write a Java Program to print numbers 1 to 100 without using any loop(for/while/do-while).
-Question 21: Write a Java Program to shift all zeros on the right.
-Question 22: Write a Java Program to remove the duplicates from an array.
-Question 23: Write a Java Program to iterate through the HashMap.
-Question 24: Write a Java Program to convert HashMap to ArrayList.
-Question 25: Write a Java Program to print the missing number in a given Array.
+-> Question 13: Write a Java Program to generate Output "aabbbcccc" with the input "a2b3c4"
+-> Question 14: Write a Java Program to print the product of an array except self?
+-> Question 15: Write a Java Program to reverse a number using Stack.
+-> Question 16:  Write a Java Program to print the second largest number in a given array.
+-> Question 17: Write a Java Program to print the first non repeating character in a given String.
+-> Question 18: Write a Java Program to print the maximum consecutive ones in a given array.
+-> Question 19: Write a Java Program to print the first and last position of a number in a given array.
+-> Question 20: Write a Java Program to print numbers 1 to 100 without using any loop(for/while/do-while).
+-> Question 21: Write a Java Program to shift all zeros on the right.
+-> Question 22: Write a Java Program to remove the duplicates from an array.
+-> Question 23: Write a Java Program to iterate through the HashMap.
+-> Question 24: Write a Java Program to convert HashMap to ArrayList.
+-> Question 25: Write a Java Program to print the missing number in a given Array.
 
 Part-3
 
-Write a Program to check if an element is part of a collection or not.
-Write a program to reverse an ArrayList.
-Write a program to convert ArrayList to LinkedList and vice versa.
-How to get the highest and lowest values of a List?
-How to make a collection read-only?
-What is the difference between Iterator & Enumerator?
-Compare different Collection classes with respect to their properties.
+1. Write a Program to check if an element is part of a collection or not.
+2. Write a program to reverse an ArrayList.
+3. Write a program to convert ArrayList to LinkedList and vice versa.
+4. How to get the highest and lowest values of a List?
+5. How to make a collection read-only?
+6. What is the difference between Iterator & Enumerator?
+7. Compare different Collection classes with respect to their properties.
 List
-What are the differences between List & Set?
-What are the differences between Array and ArrayList?
-What are the differences between Arraylist & LinkedlList?
+8. What are the differences between List & Set?
+9. What are the differences between Array and ArrayList?
+10. What are the differences between Arraylist & LinkedlList?
 Set
-What are the differences between Set & Map?
-What are the differences between HashSet & TreeSet?
+11. What are the differences between Set & Map?
+12. What are the differences between HashSet & TreeSet?
 Map
-What are the differences between HashSet & HashMap?
-What are the differences between HashMap & TreeMap?
+13. What are the differences between HashSet & HashMap?
+14. What are the differences between HashMap & TreeMap?
 
 
 Part-4
